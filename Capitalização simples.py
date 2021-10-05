@@ -2,7 +2,7 @@ print('-----APLICANDO JUROS-----')
 juros = taxa = tempo = capital = 0
 while True:
     print('\n\n\nJ = C * I * T')
-    print('RECOMENDO QUE SEJA TAXA EM MÊS, TEMPO EM MÊS\n')
+    print('TAXA EM MÊS, TEMPO EM MÊS\n')
     print('Se não tiver o valor, DIGITE 0')
     juros = float(input('Digite os juros do problema: '))
     taxa = float(input('Digite a taxa do problema: '))
