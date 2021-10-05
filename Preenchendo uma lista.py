@@ -1,4 +1,4 @@
-print('FAZ PARTE')
+print('Preenchendo uma lista')
 numero = list()
 digitado = 0
 while True:
